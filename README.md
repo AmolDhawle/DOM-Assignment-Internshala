@@ -2,6 +2,8 @@
 
 This project is a simple student registration system implemented using HTML, CSS, and JavaScript. It allows users to register new students, edit existing student records, and delete student records. The system stores student data locally using browser's local storage, ensuring that data persists even after refreshing the page.
 
+## Github Link - https://github.com/AmolDhawle/DOM-Assignment-Internshala/
+
 ## Features
 
 - Add new student records with name, ID, email, and contact number.
@@ -16,12 +18,15 @@ This project is a simple student registration system implemented using HTML, CSS
 - CSS
 - JavaScript
 
-## Setup
+## Setup Instructions
 
 To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in your web browser.
+1. Clone the repository: `git clone https://github.com/AmolDhawle/DOM-Assignment-Internshala.git`
+
+2. Navigate to the project directory: `cd DOM-Assignment-Internshala`
+
+3. Open the `index.html` file in your preferred web browser.
 
 ## Usage
 
